@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1041490560428-p4qq4bj5q0avs45k8mosc1r12hlc4sgk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1041490560428-p4qq4bj5q0avs45k8mosc1r12hlc4sgk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXx6OMJYu85y5c3zHrX7a182aUKV02cHE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1041490560428</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.manalang.exam.Recipe-App</string>
+	<key>PROJECT_ID</key>
+	<string>manalang-ios-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>manalang-ios-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1041490560428:ios:d515f0a2ba29fda11f6609</string>
+	<key>DATABASE_URL</key>
+	<string>https://manalang-ios-test.firebaseio.com</string>
+</dict>
+</plist>
